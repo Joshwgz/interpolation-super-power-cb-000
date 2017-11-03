@@ -2,4 +2,4 @@ def display_rainbow (colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indi
   puts "R: #{colors}"
 end
 
-display_rainbow( )
+display_rainbow(nobs)

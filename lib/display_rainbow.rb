@@ -4,3 +4,4 @@ def display_rainbow (colors['red', 'orange', 'yellow', 'green', 'blue', 'indigo'
 end
 
 display_rainbow
+0/2
